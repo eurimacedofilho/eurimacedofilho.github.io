@@ -1,0 +1,78 @@
+
+#indice {
+    background-color: #9EC1A3;
+    text-decoration-line: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+    padding: 25px 50px 25px 50px;
+    color: white;
+
+    
+}
+
+#descritivo{
+    background-color: #CFE0C3;
+    padding: 15px 30px 15px;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color: #9EC1A3;
+    padding: 15px 30px 15px;
+    color: white;
+
+    
+}
+
+#imagemEuri{
+    border-radius: 10%;
+    background-color: #9EC1A3;
+    padding: 10px ;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+}
+
+.link{
+    
+    text-decoration-line: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+    background-color: #9EC1A3;
+    border: none;
+    color: white;
+    padding: 15px 30px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#email{
+    background-color: #9EC1A3;
+    border: none;
+    color: white;
+    padding: 15px 30px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#habilidadesDiv{
+    padding: 15px 30px 15px;
+    background-color: #CFE0C3;
+    color: white;
+}
+
+.habilidades{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+    padding: 15px 30px 15px;
+    background-color: #9EC1A3;
+    color: white;
+
+}
